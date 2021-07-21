@@ -3,7 +3,7 @@ layout: post
 title: Publications
 date: 2021-03-12 00:00:00 +0300
 description:
-img: workflow.jpg # Add image post (optional)
+img: assets/img/workflow.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Publications] # add tag
 ---
