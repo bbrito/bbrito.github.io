@@ -3,7 +3,7 @@ layout: post
 title: Previous work
 date: 2017-04-06 13:32:20 +0300
 description:
-img: assets/img/previous-clients-picture.png # Add image post (optional)
+img: previous-clients-picture.png # Add image post (optional)
 ---
 
 ## Research Scientist at Fraunhofer Institute for Manufacturing Engineering and Automation IPA – (https://www.ipa.fraunhofer.de/en.html)

@@ -3,7 +3,7 @@ layout: post
 title: My Research
 date: 2019-10-15 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: assets/img/research_cover.png # Add image post (optional)
+img: research_cover.png # Add image post (optional)
 tags: [Robotics, Motion Planning, Deep Learning] # add tag
 ---
 
