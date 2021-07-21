@@ -1,8 +1,9 @@
 title: Hello, world! I'm Bruno Brito
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My research is focused on data-driven motion planning techniques for autonomous navigation among
+  humans and other robots. More specifically, I have been developing autonomous navigation algorithms
+  combining optimization-based and learning-based techniques (e.g., Model Predictive Control and Deep
+  Reinforcement Learning).
 permalink: ':title/'
 domain: bbrito.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: "https://bbrito.github.io"  # the base hostname and protocol for your site, e.g. http://example.com
