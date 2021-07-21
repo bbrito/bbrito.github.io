@@ -3,7 +3,7 @@ layout: post
 title: About me...
 date: 2017-09-12 13:32:20 +0300
 description:
-img: porto-main.jpg # Add image post (optional)
+img: assets/img/porto-main.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [AboutMe, Who Am I]
 ---
